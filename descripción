@@ -1,0 +1,15 @@
+1. *Importa Scanner* para leer la entrada del usuario
+2. *Lee un número entero* Ñdesde la consola
+3. *Usa el operador módulo (%)* para verificar si el Ñnúmero es divisible por 100
+   - Si numero % 100 == 0, significa que no hay residuo al dividir por 100, por lo tanto es ñmúltiplo
+   - Si hay residuo, no es múltiplo
+4. *Imprime el resultado* según corresponda
+
+*Explicación del operador módulo:*
+- 12600 % 100 = 0 → Es múltiplo de 100
+- 1234 % 100 = 34 → No es múltiplo de 100
+
+ los requerimientos:
+- *Entrada:* Un número entero
+- *Salida:* "multiple of 100" o "not multiple of 100"
+- *Ejemplo:* Para la entrada 12600, imprime "multiple of 100"
